@@ -1,0 +1,6 @@
+{
+
+   to write into the file in c# using the streamwriter
+   to read into the file in c# using the streamreader
+
+}
